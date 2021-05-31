@@ -48,3 +48,7 @@ header{
     transition: all 0.3s ease 0s;
     color: rgb(76, 0, 255);
 }
+.responsive {
+    width: 100%;
+    height: auto;
+  }
